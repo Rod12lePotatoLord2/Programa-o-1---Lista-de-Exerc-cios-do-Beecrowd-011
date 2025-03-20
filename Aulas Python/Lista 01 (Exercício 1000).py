@@ -1,0 +1,1 @@
+print("Hello World!") # Imprimiu a mensagem "Hello World!" na tela.
